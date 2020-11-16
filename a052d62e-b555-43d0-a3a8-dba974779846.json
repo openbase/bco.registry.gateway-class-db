@@ -1,0 +1,27 @@
+{
+  "id": "a052d62e-b555-43d0-a3a8-dba974779846",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "OpenHAB Hue Binding"
+        ]
+      }
+    ]
+  },
+  "description": {},
+  "binding_config": {
+    "binding_id": "OPENHAB",
+    "meta_config": {}
+  },
+  "company": "Philips",
+  "meta_config": {
+    "entry": [
+      {
+        "key": "OPENHAB_BINDING_ID",
+        "value": "binding-hue"
+      }
+    ]
+  }
+}
