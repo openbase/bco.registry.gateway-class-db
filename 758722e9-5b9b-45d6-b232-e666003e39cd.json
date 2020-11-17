@@ -1,0 +1,23 @@
+{
+  "id": "758722e9-5b9b-45d6-b232-e666003e39cd",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "OpenHAB"
+        ]
+      }
+    ]
+  },
+  "product_number": "",
+  "description": {},
+  "nested_gateway_class_id": [
+    "c7d34f47-85bc-4709-b550-d466dda43b57",
+    "8e989c71-adf6-461f-bca8-c0144c12fd5e",
+    "13799852-a998-4b19-851d-1f9ccb553ac2",
+    "3b0d3f3a-6b7e-4460-947b-d6cbbc697a44"
+  ],
+  "company": "",
+  "meta_config": {}
+}
