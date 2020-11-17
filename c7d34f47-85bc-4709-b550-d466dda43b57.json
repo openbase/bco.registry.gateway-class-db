@@ -11,5 +11,12 @@
     ]
   },
   "description": {},
-  "meta_config": {}
+  "meta_config": {
+    "entry": [
+      {
+        "key": "OPENHAB_BINDING_ID",
+        "value": "binding-homematic"
+      }
+    ]
+  }
 }
