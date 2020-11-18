@@ -17,7 +17,11 @@
     "entry": [
       {
         "key": "OPENHAB_BINDING_ID",
-        "value": "binding-hue"
+        "value": "hue"
+      },
+      {
+        "key": "OPENHAB_EXTENSION_ID",
+        "value": "binding-${OPENHAB_BINDING_ID}"
       }
     ]
   }

@@ -17,7 +17,11 @@
     "entry": [
       {
         "key": "OPENHAB_BINDING_ID",
-        "value": "binding-zwave"
+        "value": "zwave"
+      },
+      {
+        "key": "OPENHAB_EXTENSION_ID",
+        "value": "binding-${OPENHAB_BINDING_ID}"
       }
     ]
   }

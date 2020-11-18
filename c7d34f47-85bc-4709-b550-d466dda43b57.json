@@ -10,12 +10,18 @@
       }
     ]
   },
+  "product_number": "",
   "description": {},
+  "company": "",
   "meta_config": {
     "entry": [
       {
         "key": "OPENHAB_BINDING_ID",
-        "value": "binding-homematic"
+        "value": "homematic"
+      },
+      {
+        "key": "OPENHAB_EXTENSION_ID",
+        "value": "binding-${OPENHAB_BINDING_ID}"
       }
     ]
   }
