@@ -22,6 +22,10 @@
       {
         "key": "OPENHAB_EXTENSION_ID",
         "value": "binding-${OPENHAB_BINDING_ID}"
+      },
+      {
+        "key": "OPENHAB_THING_CLASS",
+        "value": "hue:bridge"
       }
     ]
   }
