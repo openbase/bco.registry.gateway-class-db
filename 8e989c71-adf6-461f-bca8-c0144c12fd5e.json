@@ -25,7 +25,7 @@
       },
       {
         "key": "OPENHAB_THING_CLASS",
-        "value": "hue:bridge"
+        "value": "hue:bridge, hue:device"
       }
     ]
   }
