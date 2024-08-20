@@ -1,0 +1,33 @@
+{
+  "id": "96dd4c43-92de-48b6-ba16-f9bafefc3c44",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Home Assistant"
+        ]
+      }
+    ]
+  },
+  "description": {
+    "entry": [
+      {
+        "key": "en",
+        "value": "A connection to bind Home Assistant to BCO."
+      },
+      {
+        "key": "de",
+        "value": "Eine Verbindung um Home Assistent in BCO zu integrieren."
+      }
+    ]
+  },
+  "nested_gateway_class_id": [
+    "8e989c71-adf6-461f-bca8-c0144c12fd5e",
+    "3b0d3f3a-6b7e-4460-947b-d6cbbc697a44",
+    "c7d34f47-85bc-4709-b550-d466dda43b57",
+    "13799852-a998-4b19-851d-1f9ccb553ac2"
+  ],
+  "company": "Open Home Foundation",
+  "meta_config": {}
+}
